@@ -1,5 +1,8 @@
 # AxoWise
 
+⚡ Maintained fork of the original [AxoWise project](https://github.com/BackofenLab/AxoWise) by the BackofenLab.  
+🧪 Now under active development by [AxoForge](https://github.com/AxoForge).
+
 AxoWise is a web service tool engineered to convert complex networks of knowledge into contextual insights through interactive visualization and AI techniques.
 
 ## Motivation
